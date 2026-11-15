@@ -17,10 +17,10 @@
 ### 👋 About me
 
 - 🎓 2nd-year **Computer Science** student at the **University of Latvia** (Latvijas Universitāte)
-- 👁️ Interested in **computer vision**, **sports analytics** and **AI agents**
-- ⚽ Building tools that turn football video and data into insights
+- 👁️ Interested in **computer vision**, **data analytics** and **machine learning**
+- 🌱 Currently learning to build **AI agents**
+- 🎥 Building tools that turn **video and data** into insights
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/arsenijs-senins)
-
 ---
 
 ### 🚀 Featured projects
