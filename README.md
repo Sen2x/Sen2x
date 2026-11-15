@@ -29,6 +29,19 @@
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+#### ⚽ [Football Speed Analytics](https://github.com/Sen2x/FootballSpeedAnalytics-Python) <sub>(main project · in progress)</sub>
+Computer vision pipeline that detects and tracks football players in match video with **YOLO26s** and **BoT-SORT**, as the basis for measuring player speed. Earlier prototype in C#: [FootballSpeedAnalytics](https://github.com/Sen2x/FootballSpeedAnalytics).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO26s-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![BoT-SORT](https://img.shields.io/badge/Tracking-BoT--SORT-FF4B4B?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🌙 [LunarSafe AI](https://github.com/Sen2x/lunarsafe-ai)
