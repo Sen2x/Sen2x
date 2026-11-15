@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Arsenijs%20Se%C5%86ins&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%C2%B7%20University%20of%20Latvia&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:6a11cb&height=200&section=header&text=Arsenijs%20Se%C5%86ins&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%C2%B7%20University%20of%20Latvia&descAlignY=58&descSize=16" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+OpenCV;Data+analytics+%26+Machine+Learning;Currently+learning+AI+agents;Python+%C2%B7+C%23+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+C%2B%2B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+OpenCV;Data+analytics+%26+Machine+Learning;Currently+learning+AI+agents;Python+%C2%B7+C%23+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+C%2B%2B" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/arsenijs-senins"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -20,6 +20,7 @@
 - 👁️ Interested in **computer vision**, **data analytics** and **machine learning**
 - 🌱 Currently learning to build **AI agents**
 - 🎥 Building tools that turn **video and data** into insights
+- 🔎 Open to an **internship** from **May 2027** (remote)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/arsenijs-senins)
 
 ---
@@ -78,5 +79,5 @@ Adaptive boss that learns from players. My [PR #5](https://github.com/DaniilsLuk
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2a5298,100:1e3c72&height=110&section=footer" width="100%" />
 </div>
