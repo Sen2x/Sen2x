@@ -77,17 +77,6 @@ Adaptive boss that learns from players. My [PR #5](https://github.com/DaniilsLuk
   <img src="https://skillicons.dev/icons?i=python,cs,ts,java,cpp,dotnet,docker,linux,git,github,vscode&perline=12" />
 </p>
 
----
-
-### 📊 GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sen2x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sen2x&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Sen2x&theme=tokyonight&hide_border=true" />
-</div>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
 </div>
