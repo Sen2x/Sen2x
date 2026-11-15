@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:6a11cb&height=200&section=header&text=Arsenijs%20Se%C5%86ins&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%C2%B7%20University%20of%20Latvia&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arsenijs%20Se%C5%86ins&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%C2%B7%20University%20of%20Latvia&descAlignY=58&descSize=16" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+OpenCV;Data+analytics+%26+Machine+Learning;Currently+learning+AI+agents;Python+%C2%B7+C%23+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+C%2B%2B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4C8DFF&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+OpenCV;Data+analytics+%26+Machine+Learning;Currently+learning+AI+agents;Python+%C2%B7+C%23+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+C%2B%2B" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/arsenijs-senins"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -78,6 +78,17 @@ Adaptive boss that learns from players. My [PR #5](https://github.com/DaniilsLuk
   <img src="https://skillicons.dev/icons?i=python,cs,ts,java,cpp,dotnet,docker,linux,git,github,vscode&perline=12" />
 </p>
 
+---
+
+### 🐍 Contribution snake
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2a5298,100:1e3c72&height=110&section=footer" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sen2x/Sen2x/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Sen2x/Sen2x/output/github-snake.svg" />
+</picture>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer" width="100%" />
 </div>
