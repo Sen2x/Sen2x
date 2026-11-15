@@ -44,7 +44,7 @@ Computer vision pipeline that detects and tracks football players in match video
 <tr>
 <td width="50%" valign="top">
 
-#### 🌙 [LunarSafe AI](https://github.com/Sen2x/lunarsafe-ai)
+#### 🌙 [LunarSafe AI](https://github.com/Sen2x/lunarsafe-ai) <sub>(team project)</sub>
 Computer vision system for lunar terrain hazard analysis and autonomous landing-site selection.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -53,7 +53,7 @@ Computer vision system for lunar terrain hazard analysis and autonomous landing-
 </td>
 <td width="50%" valign="top">
 
-#### 🏎️ [F1 RaceGuard AI](https://github.com/Sen2x/f1-raceguard-ai)
+#### 🏎️ [F1 RaceGuard AI](https://github.com/Sen2x/f1-raceguard-ai) <sub>(team project)</sub>
 Autonomous AI agent that protects F1-inspired race strategy models from corrupted telemetry using DataHub lineage.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
