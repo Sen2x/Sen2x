@@ -32,12 +32,14 @@
 <td colspan="2" valign="top">
 
 #### ⚽ [Football Speed Analytics](https://github.com/Sen2x/FootballSpeedAnalytics-Python) <sub>(main project · in progress)</sub>
-Computer vision pipeline that detects and tracks football players in match video with **YOLO26s** and **BoT-SORT**, as the basis for measuring player speed. Earlier prototype in C#: [FootballSpeedAnalytics](https://github.com/Sen2x/FootballSpeedAnalytics).
+Computer vision pipeline that turns match video into **per-player statistics**: detection and tracking with **YOLO26s** + **BoT-SORT**, pitch calibration (pixels → meters), **distance, speed, heatmaps, trajectories** and a local **HTML report** with player photos and team detection. Includes unit tests and an honest-measurement policy (no fake meters).
+
+<a href="https://github.com/Sen2x/FootballSpeedAnalytics-Python"><img src="https://raw.githubusercontent.com/Sen2x/FootballSpeedAnalytics-Python/main/docs/demo.gif" width="560" alt="Football Speed Analytics demo" /></a>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO26s-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![BoT-SORT](https://img.shields.io/badge/Tracking-BoT--SORT-FF4B4B?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 </td>
 </tr>
@@ -77,7 +79,7 @@ Adaptive boss that learns from players. My [PR #5](https://github.com/DaniilsLuk
 #### 📚 Learning repos
 - [learningopencv](https://github.com/Sen2x/learningopencv) — OpenCV and computer vision experiments
 - [python_basics](https://github.com/Sen2x/python_basics) — small Python projects
-- [java-projects](https://github.com/Sen2x/java-projects) · [cpp-projects](https://github.com/Sen2x/cpp-projects) · [csharp-projects](https://github.com/Sen2x/csharp-projects)
+- Archived: first-steps calculators in [Java](https://github.com/Sen2x/java-projects) · [C++](https://github.com/Sen2x/cpp-projects) · [C#](https://github.com/Sen2x/csharp-projects)
 
 </td>
 </tr>
