@@ -76,6 +76,18 @@ Adaptive boss that learns from players. My [PR #5](https://github.com/DaniilsLuk
 </td>
 <td width="50%" valign="top">
 
+#### 🎬 [Cineca — movie community](https://github.com/DaniilsLukaMiskins/Web-technologies-II-poject-Cineca) <sub>(team project)</sub>
+Laravel web app for rating and reviewing films with TMDB data: watchlists, friends, user statistics, recommendations and an admin panel. My part (27 commits): database migrations and models, controllers and routes, full **EN/LV localization** with locale middleware, avatar upload, two-way friends, favourite-genre statistics, recommendations that skip already-reviewed films, duplicate-review check and HTML validation fixes.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![TMDB API](https://img.shields.io/badge/TMDB%20API-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 #### 📚 Learning repos
 - [learningopencv](https://github.com/Sen2x/learningopencv) — OpenCV and computer vision experiments
 - [python_basics](https://github.com/Sen2x/python_basics) — small Python projects
@@ -90,7 +102,7 @@ Adaptive boss that learns from players. My [PR #5](https://github.com/DaniilsLuk
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,ts,java,cpp,dotnet,docker,linux,git,github,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,cs,ts,java,cpp,php,laravel,dotnet,docker,linux,git,github,vscode&perline=13" />
 </p>
 
 ---
